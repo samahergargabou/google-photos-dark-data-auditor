@@ -1,4 +1,4 @@
-# Google Photos Dark Data Auditor 🔍
+# Google Photos Dark Data Auditor 
 
 #Purpose
 This project is a technical exploration into Data Minimalism. As a Computer Engineering student interested in sustainability, I am developing this tool to help users identify "Dark Data "forgotten, unorganized media that consumes energy and cloud resources.
@@ -15,4 +15,5 @@ Technical Implementation
 - [ ] Automated "Blurry/Duplicate" detection using ML
 
 ## Disclaimer
+
 To run this locally, you must provide your own `credentials.json` from the Google Cloud Console.
