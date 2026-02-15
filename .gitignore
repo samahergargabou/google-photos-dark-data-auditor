@@ -1,0 +1,16 @@
+# Sensitive Google Auth files
+token.pkl
+token.pickle
+credentials.json
+google_photos_filenames.txt
+
+# Personal system files
+chromedriver-win64/
+Screenshots/
+venv/
+__pycache__/
+*.pyc
+
+# Clutter
+py
+test_s
